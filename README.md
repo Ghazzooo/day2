@@ -13,6 +13,8 @@ git push origin --delete dev
 
 ```
 git branch -d dev
+```
+```
 git branch -D dev
 ```
 
